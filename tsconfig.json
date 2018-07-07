@@ -3,6 +3,6 @@
     "target": "es5",        /* Version of Ecmascript */                  
     "module": "commonjs",   /* Module System */
     "strict": true,
-    "outDir": "dist"
+    "outDir": "dist" /* Specify where to output our compiled version */
   }
 }
